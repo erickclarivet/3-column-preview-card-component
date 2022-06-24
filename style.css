@@ -36,7 +36,7 @@ button {
 .container {
     display: grid;
     justify-content: center;
-    grid-template-columns: 16% 16% 16%;
+    grid-template-columns: 20% 20% 20%;
 }
 
 .container > [class*='card-'] {
